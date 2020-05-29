@@ -1,9 +1,9 @@
 import React from 'react';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-     <p>olá mundo</p>
+     <p>Projeto Sky-Fi</p>
     </div>
   );
 }
